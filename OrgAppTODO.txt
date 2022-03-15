@@ -1,0 +1,5 @@
+1. we may need to make a txt file with the name of the different topics
+2. add file names from in the directory to the array
+3. check the file names to the list of topics
+4. function that adds all the actions to the Change Log.txt
+5. 
